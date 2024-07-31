@@ -1,0 +1,15 @@
+/home/netec-dev/Documentos/c#inicial/bin/Debug/net6.0/c#inicial
+/home/netec-dev/Documentos/c#inicial/bin/Debug/net6.0/c#inicial.deps.json
+/home/netec-dev/Documentos/c#inicial/bin/Debug/net6.0/c#inicial.runtimeconfig.json
+/home/netec-dev/Documentos/c#inicial/bin/Debug/net6.0/c#inicial.dll
+/home/netec-dev/Documentos/c#inicial/bin/Debug/net6.0/c#inicial.pdb
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/c#inicial.csproj.AssemblyReference.cache
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/c#inicial.GeneratedMSBuildEditorConfig.editorconfig
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/c#inicial.AssemblyInfoInputs.cache
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/c#inicial.AssemblyInfo.cs
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/c#inicial.csproj.CoreCompileInputs.cache
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/c#inicial.dll
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/refint/c#inicial.dll
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/c#inicial.pdb
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/c#inicial.genruntimeconfig.cache
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/ref/c#inicial.dll
