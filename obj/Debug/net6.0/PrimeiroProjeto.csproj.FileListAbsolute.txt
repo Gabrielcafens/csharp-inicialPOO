@@ -1,0 +1,15 @@
+/home/netec-dev/Documentos/c#inicial/bin/Debug/net6.0/PrimeiroProjeto
+/home/netec-dev/Documentos/c#inicial/bin/Debug/net6.0/PrimeiroProjeto.deps.json
+/home/netec-dev/Documentos/c#inicial/bin/Debug/net6.0/PrimeiroProjeto.runtimeconfig.json
+/home/netec-dev/Documentos/c#inicial/bin/Debug/net6.0/PrimeiroProjeto.dll
+/home/netec-dev/Documentos/c#inicial/bin/Debug/net6.0/PrimeiroProjeto.pdb
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/PrimeiroProjeto.csproj.AssemblyReference.cache
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/PrimeiroProjeto.AssemblyInfoInputs.cache
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/PrimeiroProjeto.AssemblyInfo.cs
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/PrimeiroProjeto.csproj.CoreCompileInputs.cache
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/PrimeiroProjeto.dll
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/refint/PrimeiroProjeto.dll
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/PrimeiroProjeto.pdb
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/PrimeiroProjeto.genruntimeconfig.cache
+/home/netec-dev/Documentos/c#inicial/obj/Debug/net6.0/ref/PrimeiroProjeto.dll
