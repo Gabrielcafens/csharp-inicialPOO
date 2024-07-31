@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zIjrvEYOtcGjP6dbJdRUz4kdVdewuqDNOGy1h1ADRhh4RSTDLqUK+KCeJx8Crw3oxn78+b2CaHk5+Cl27uucxQ==",
+  "dgSpecHash": "ku3FiHi7ljgf5KCXyIT/PvZxSHco+/RYuOAQ/SvHjFqK00VHG/E6wW9heNiKTXEwjEQsahWPsziVk9UbaYsRow==",
   "success": true,
-  "projectFilePath": "/home/netec-dev/Documentos/c#inicial/c#inicial.csproj",
+  "projectFilePath": "C:\\Users\\guilherme\\source\\repos\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
