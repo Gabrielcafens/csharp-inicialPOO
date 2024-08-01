@@ -8,24 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/netec-dev/.nuget/packages/": {}
+    "C:\\Users\\guilherme\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/netec-dev/Documentos/c#inicial/PrimeiroProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\guilherme\\source\\repos\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
       "projectName": "PrimeiroProjeto",
-      "projectPath": "/home/netec-dev/Documentos/c#inicial/PrimeiroProjeto.csproj",
-      "packagesPath": "/home/netec-dev/.nuget/packages/",
-      "outputPath": "/home/netec-dev/Documentos/c#inicial/obj/",
+      "projectPath": "C:\\Users\\guilherme\\source\\repos\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+      "packagesPath": "C:\\Users\\guilherme\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\guilherme\\source\\repos\\PrimeiroProjeto\\PrimeiroProjeto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/netec-dev/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.410/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
